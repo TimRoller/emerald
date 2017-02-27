@@ -7,7 +7,6 @@ author:
   email: "hello@jacoporabolini.com"
   url: "http://www.jacoporabolini.com"
 
-
 # Build settings
 baseurl: /emerald/ # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
