@@ -7,6 +7,7 @@ author:
   email: "timroller@gmail.com"
   url: "http://TimRoller.github.io/home/"
 
+
 # Build settings
 baseurl: /home/ # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
